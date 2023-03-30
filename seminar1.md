@@ -5,4 +5,8 @@
   ```
   git init
   ```
-  ## Не добавление в репозиторийw435w5w45w435w5w5w5w5w5wew5eterterteterteterterterterterteterte ##
+  ## Не добавление в репозиторийw435w5w45w435w5w5w5w5w5wew5etertertetertetertertertertertetertegit ##
+  ```
+  git add
+  ```
+  **фиксируем изменение в файле перед это командой обязательно сохранить**
