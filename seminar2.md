@@ -31,7 +31,8 @@
 ```
 ```javascript
 alert('Привет мир')
-```Pumpurum
+```
+Pumpurum
 
 
 ## Добавление таблиц
